@@ -1,3 +1,3 @@
-ele=1
-if ele==1:
-    print("hello")
+ele=0
+if ele==0:
+    print("Irshad")
